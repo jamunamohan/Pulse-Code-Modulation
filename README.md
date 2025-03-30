@@ -1,4 +1,5 @@
 Pulse-Code-Modulation
+
 Aim:
 
 To implement Pulse Code Modulation (PCM) for encoding and decoding a sinusoidal signal using quantization and to observe the output waveforms.
